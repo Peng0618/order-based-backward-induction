@@ -1,0 +1,12 @@
+This repository contains the code for the research paper "A Mathematical Approach to Design Verification Strategies That Incorporate Corrective Activities as Dedicated Decisions."
+
+To run this code, please follow these steps:
+1. Install MATLAB (the recommended version is R2018a)
+2. Install the package BNT from https://github.com/bayesnet/bnt
+3. Install MATLAB Engine API for Python
+4. Download this repository and change all the directories 'D:\GoogleDrive\PythonScripts\JVS\MatlabCode' in “BNet_small_model.py” to your corresponding directories.
+5. Run “run_DPMethod.py”.
+
+<img width="900" height="650" alt="image" src="https://github.com/user-attachments/assets/36d7be00-6b09-4312-8948-d89eb05bd7ea" />
+
+Feel free to contact me if any questions: xupeng@vt.edu
